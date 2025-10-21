@@ -1,0 +1,270 @@
+INDICE COMPLETO DE PARADIGMAS JURISPRUDENCIAIS
+===============================================
+
+Ultima atualizacao: 21/10/2025 as 01:15
+Total de arquivos: 179
+
+IMPORTANTE: Todos os arquivos foram ANONIMIZADOS
+- Nomes de pessoas: [PARTE]
+- Processos: [PROCESSO]
+- Dados pessoais: removidos
+
+===============================================
+
+COMO USAR ESTE INDICE:
+
+1. Identifique a materia do caso
+2. Encontre o caminho do arquivo relevante abaixo
+3. Acesse: https://github.com/Gabinete-equipe/entendimento/blob/main/[CAMINHO]
+4. Para arquivo raw: https://raw.githubusercontent.com/Gabinete-equipe/entendimento/main/[CAMINHO]
+
+===============================================
+
+
+============================================================
+MATERIA: - MEUS MODELOS
+============================================================
+Total de paradigmas: 79
+
+
+  >> Cível
+  --------------------------------------------------
+  - Meus Modelos/Cível/Consumidor/Telefônica/ações telebrrás - diferença - liquidação st procedente.docx
+  - Meus Modelos/Cível/Consumidor/SFH/improcedência - ausência de vícios construtivos.docx
+  - Meus Modelos/Cível/Descumprimento contratual/unimar x Pau dalho.docx
+  - Meus Modelos/Cível/Revisão contratual/embargos de terceiros - improcedente - anatocismo.docx
+  [SENSIVEL] - Meus Modelos/Cível/Bancário/CCB - inaplicabilidade CDC - inexistência de abuso - impro.docx
+  - Meus Modelos/Cível/Sindicatos/AMBEC - contrato via fone - improcedencia.docx
+  - Meus Modelos/Cível/Bancário/Procedência - ausência de apresentação contrato - RMC.docx
+  - Meus Modelos/Cível/Sindicatos/AMBEC contrato ligação - validade - impro.docx
+  - Meus Modelos/Cível/Consumidor/Bancário/apresentação documento - preliminar interesse de agir - improcedência - ausência pleito administrativo.docx
+  - Meus Modelos/Cível/Sindicatos/assinatura digital inválida - INSS - proc part - inconst sucumb.docx
+  - Meus Modelos/Cível/DL 911/procedentte busca e apreensão - prestação contas apartada.docx
+  - Meus Modelos/Cível/Consumidor/Bancário/fraude - inexistência - contrato assinado.docx
+  - Meus Modelos/Cível/Bancário/paradigma.docx
+  - Meus Modelos/Cível/Consumidor/Bancário/PREDATÓRIAS/RMC nulidade ou conversão - improcedente - má-fé.docx
+  - Meus Modelos/Cível/Sindicatos/desfiliação - inexistência débito - predatória - impro - litigância.docx
+  - Meus Modelos/Cível/Improbidade adm/contratação clínicas - parcial procedência.docx
+  - Meus Modelos/Cível/DL 911/procedentte busca e apreensão - prestação contas apartada.docx
+  - Meus Modelos/Cível/Locação/locação - revelia - procedencia.docx
+  - Meus Modelos/Cível/Predatórias/RMC - contratação digital comprovada - improcedencia - litigância.docx
+  - Meus Modelos/Cível/Predatórias/cartão de crédito sem contratação - ausência de desconto - improcedencia.docx
+  - Meus Modelos/Cível/Sindicatos/INSS - fraude - dano moral - honorários inconstitucionalidade honorários.docx
+  - Meus Modelos/Cível/Predatórias/Apresentação de documentos - ausência de pedido adm - improcedencia.docx
+  - Meus Modelos/Cível/Predatórias/Apresentação doc - procuração genérica - sem resolução de mérito.docx
+  - Meus Modelos/Cível/Predatórias/RMC - PREDATÓRIA - SEM MULTA.docx
+  - Meus Modelos/Cível/Consumidor/SABESP/Sentença - cobrança - procedente.docx
+  - Meus Modelos/Cível/Consumidor/Escola/Sentença - negativa de vaga - autista - lei estadual - procedente.docx
+  - Meus Modelos/Cível/Ato ílicito Estado/Sentença - reparação de danos - erro médico.docx
+  - Meus Modelos/Cível/Seguro/Sentença - seguro impróprio - procedência.docx
+
+  >> Família
+  --------------------------------------------------
+  - Meus Modelos/Família/Pensão/pensão - procedência.docx
+  - Meus Modelos/Família/Pensão/Divórvio - Alimentos - nome de solteira.docx
+  - Meus Modelos/Família/Jurisdição voluntária/Alvará para empréstimo - impro.docx
+  - Meus Modelos/Família/Sentença - alimentos iniciais - procedente.docx
+  - Meus Modelos/Família/Sentença - alimentos revisão - improcedente - com revelia e sem presunção fatos.docx
+
+  >> Fazenda
+  --------------------------------------------------
+  - Meus Modelos/Fazenda/gabinete/MS concurso - desclassificação.docx
+  - Meus Modelos/Fazenda/cargo comissão - sem verbas rescisórias - com dano moral ostracismo.docx
+  - Meus Modelos/Fazenda/gabinete/Acidente - buraco - resp objetiva - procedente.docx
+  - Meus Modelos/Fazenda/DAEM - improc - hidrometro com problema - falta provas.docx
+  - Meus Modelos/Fazenda/licença saúde - ato ilegal - procedência.docx
+  - Meus Modelos/Fazenda/rescisão contratual e reintegração.docx
+  - Meus Modelos/Fazenda/policial - inexistência de nexo - acidente.docx
+  - Meus Modelos/Fazenda/indenização - prefeitura - chuvas dano material.docx
+  - Meus Modelos/Fazenda/acidente - cavalo pista.docx
+  - Meus Modelos/Fazenda/gabinete/MS JZ usucapião extrajudicial - registro.docx
+  - Meus Modelos/Fazenda/gabinete/Horas extras - intrajornada e interjornada - insalubridade - Vera Cruz.docx
+  - Meus Modelos/Fazenda/gabinete/Horas extras - intrajornada e interjornada - insalubridade - Vera Cruz.docx
+  - Meus Modelos/Fazenda/insal - marilia - proc.docx
+  - Meus Modelos/Fazenda/obrigação de fazer cirurgia - fura fila.docx
+  - Meus Modelos/Fazenda/gabinete/atndimento médico - proc.docx
+  - Meus Modelos/Fazenda/OCrelizumabe on label.docx
+  - Meus Modelos/Fazenda/insalubriodade - improcedente.docx
+  - Meus Modelos/Fazenda/gabinete/ObrigFaz int compuls FazPub.docx
+  - Meus Modelos/Fazenda/cobrança Honorários - convênio OAB - erro formal - procedencia.docx
+  - Meus Modelos/Fazenda/juizado - fp - isenção IR - doença grave - procedência.docx
+  - Meus Modelos/Fazenda/lista meta.docx
+
+  >> Gerais
+  --------------------------------------------------
+  - Meus Modelos/Gerais/Saneador/Saneador com exclusão de parte ilegítima e audiência.docx
+  - Meus Modelos/Gerais/Saneador/Saneador expurgos inflacionários rural com perícia.docx
+  - Meus Modelos/Gerais/Saneador/Saneador sem perícia com audiência.docx
+  - Meus Modelos/Gerais/Saneador/modelo saneador com audiencia.docx
+  - Meus Modelos/Gerais/Saneador/modelo saneador com perícia.docx
+
+  >> JEC
+  --------------------------------------------------
+  - Meus Modelos/JEC/execução - impugnação procedeente - extinção.docx
+  - Meus Modelos/JEC/dano mat - pintura - locação.docx
+  - Meus Modelos/JEC/medicamentos - tema stf.docx
+  - Meus Modelos/JEC/PROC - DANO MAT - INEX DANO MORAL EMPRESA - FURTO.docx
+  - Meus Modelos/JEC/cobrança - promissória - quinquenal.docx
+  - Meus Modelos/JEC/plano - falta de provas - consulta internet - procedencia.docx
+  - Meus Modelos/JEC/dano moral - improc - mero aborrecimento - não confunde fato anterior.docx
+  - Meus Modelos/JEC/dano moral mat - locação não repasse alugueis - oficio mp.docx
+  - Meus Modelos/JEC/Modelos despachos/Descumprimento acorso - bloqueio - enunciado fonaje.docx
+  - Meus Modelos/JEC/Modelos despachos/Penhora imóvel de família.docx
+  - Meus Modelos/JEC/Modelos despachos/Recebimento inominado - aproveitamento de custas de inominado anterior.docx
+
+  >> Modelos de despacho saneador
+  --------------------------------------------------
+  - Meus Modelos/Modelos de despacho saneador/paradigma.docx
+  - Meus Modelos/Modelos de despacho saneador/paradigma.docx
+  - Meus Modelos/Modelos de despacho saneador/paradigma.docx
+
+  >> Previdenciário
+  --------------------------------------------------
+  - Meus Modelos/Previdenciário/Aposentadoria - rural - procedente - prova testemunhal.docx
+  - Meus Modelos/Previdenciário/Aposentadoria - rural - procedente.docx
+  - Meus Modelos/Previdenciário/Procedência - auxílio-doença - sobre-esforço.docx
+  - Meus Modelos/Previdenciário/Sentença - auxílio-doença - procedência.docx
+  - Meus Modelos/Previdenciário/Sentença auxílio-doença x aposentadoria.docx
+
+  >> Usucapião
+  --------------------------------------------------
+  - Meus Modelos/Usucapião/Ordinário - Procedente - área rural.docx
+
+
+============================================================
+MATERIA: - MODELOS DE SENTENÇA
+============================================================
+Total de paradigmas: 100
+
+
+  >> Cível
+  --------------------------------------------------
+  - Modelos de Sentença/Cível/Consumidor/Telefônica/ações telebrrás - diferença - liquidação st procedente.docx
+  - Modelos de Sentença/Cível/Consumidor/SFH/improcedência - ausência de vícios construtivos.docx
+  - Modelos de Sentença/Cível/Descumprimento contratual/unimar x Pau dalho.docx
+  - Modelos de Sentença/Cível/Revisão contratual/embargos de terceiros - improcedente - anatocismo.docx
+  [SENSIVEL] - Modelos de Sentença/Cível/Bancário/CCB - inaplicabilidade CDC - inexistência de abuso - impro.docx
+  - Modelos de Sentença/Cível/Sindicatos/AMBEC - contrato via fone - improcedencia.docx
+  - Modelos de Sentença/Cível/Bancário/Procedência - ausência de apresentação contrato - RMC.docx
+  - Modelos de Sentença/Cível/Sindicatos/AMBEC contrato ligação - validade - impro.docx
+  - Modelos de Sentença/Cível/Consumidor/Bancário/apresentação documento - preliminar interesse de agir - improcedência - ausência pleito administrativo.docx
+  - Modelos de Sentença/Cível/Sindicatos/assinatura digital inválida - INSS - proc part - inconst sucumb.docx
+  - Modelos de Sentença/Cível/DL 911/procedentte busca e apreensão - prestação contas apartada.docx
+  - Modelos de Sentença/Cível/Consumidor/Bancário/fraude - inexistência - contrato assinado.docx
+  - Modelos de Sentença/Cível/Bancário/paradigma.docx
+  - Modelos de Sentença/Cível/Consumidor/Bancário/PREDATÓRIAS/RMC nulidade ou conversão - improcedente - má-fé.docx
+  - Modelos de Sentença/Cível/Sindicatos/desfiliação - inexistência débito - predatória - impro - litigância.docx
+  - Modelos de Sentença/Cível/DL 911/procedentte busca e apreensão - prestação contas apartada.docx
+  - Modelos de Sentença/Cível/Locação/locação - revelia - procedencia.docx
+  - Modelos de Sentença/Cível/Predatórias/RMC - contratação digital comprovada - improcedencia - litigância.docx
+  - Modelos de Sentença/Cível/Predatórias/cartão de crédito sem contratação - ausência de desconto - improcedencia.docx
+  - Modelos de Sentença/Cível/Sindicatos/INSS - fraude - dano moral - honorários inconstitucionalidade honorários.docx
+  - Modelos de Sentença/Cível/Adjudicação compulsória/Adjudicação - contrato de gaveta - CDHU - pagamento integral preço - procedência.docx
+  - Modelos de Sentença/Cível/Predatórias/Apresentação de documentos - ausência de pedido adm - improcedencia.docx
+  - Modelos de Sentença/Cível/Predatórias/Apresentação doc - procuração genérica - sem resolução de mérito.docx
+  - Modelos de Sentença/Cível/Predatórias/RMC - PREDATÓRIA - SEM MULTA.docx
+  - Modelos de Sentença/Cível/Consumidor/SABESP/Sentença - cobrança - procedente.docx
+  - Modelos de Sentença/Cível/Consumidor/Escola/Sentença - negativa de vaga - autista - lei estadual - procedente.docx
+  - Modelos de Sentença/Cível/Ato ílicito Estado/Sentença - reparação de danos - erro médico.docx
+  - Modelos de Sentença/Cível/Seguro/Sentença - seguro impróprio - procedência.docx
+
+  >> JEFAZ
+  --------------------------------------------------
+  - Modelos de Sentença/JEFAZ/horas extras pré-fixadas suprimidas - horas extras - proc parcial.docx
+
+  >> Júri
+  --------------------------------------------------
+  - Modelos de Sentença/Júri/Quesitos Júri/tentado + arrendimento eficaz + futil + fogo + emboscada.docx
+  - Modelos de Sentença/Júri/Sentença Juri/triplamente qualificado-tentado - fogo + motivo fútil + recurso que dificultou a reação da vítima.docx
+  - Modelos de Sentença/Júri/Quesitos Júri/tentado + torpe + dificultou defesa.docx
+  - Modelos de Sentença/Júri/Sentença Juri/Absolvição legitima defesa.docx
+  - Modelos de Sentença/Júri/Sentença Juri/Desclassificação.docx
+  - Modelos de Sentença/Júri/Sentença Juri/Tentado duplamente qualificado.docx
+  - Modelos de Sentença/Júri/Sentença Juri/Tentado qualificado-privilegiado.docx
+  - Modelos de Sentença/Júri/Pronúncia/pronuncia.docx
+  - Modelos de Sentença/Júri/Sentença Juri/desclassificação - lesão corporal e porte + posse de arma de fogo.docx
+  - Modelos de Sentença/Júri/Quesitos Júri/tentado - duplamente qualificado - em concurso com porte + posse arma fogo.docx
+  - Modelos de Sentença/Júri/Sentença Juri/tentado - duplamente qualificado - uso de arma - concurso de porte e posse de arma.docx
+  - Modelos de Sentença/Júri/Quesitos Júri/consumado duplamente qualificado.docx
+  - Modelos de Sentença/Júri/Quesitos Júri/duplamente qualificado tentado.docx
+  - Modelos de Sentença/Júri/Sentença Juri/Duplemente qualificado tentado.docx
+  - Modelos de Sentença/Júri/Sentença Juri/desclassificação - simples - tentado.docx
+  - Modelos de Sentença/Júri/Sentença Juri/homicídio simples - tentato.docx
+  - Modelos de Sentença/Júri/Quesitos Júri/simples - tentado.docx
+  - Modelos de Sentença/Júri/Quesitos Júri/tentado - duplamente qualificado + Lesão.docx
+  - Modelos de Sentença/Júri/Sentença Juri/desclassificação - lesão corporal.docx
+  - Modelos de Sentença/Júri/Quesitos Júri/Consumado Duplamente Qualificado.docx
+  - Modelos de Sentença/Júri/Sentença Juri/Consumado - Duplamente Q - Absolvição.docx
+
+  >> Penal
+  --------------------------------------------------
+  - Modelos de Sentença/Penal/CTB/art - suspensão adm - atipicidade.docx
+  - Modelos de Sentença/Penal/CTB/CTB - condenatória.docx
+  [SENSIVEL] - Modelos de Sentença/Penal/Dignidade Sexual/atentado emendatio estupro - continuidade típico normativa.docx
+  - Modelos de Sentença/Penal/Estelionato/improcedência - ausência de elementar - mediante fraude.docx
+  - Modelos de Sentença/Penal/Contra a honra/Calúnia.docx
+  - Modelos de Sentença/Penal/Contra a honra/Difamação -prefeito.docx
+  - Modelos de Sentença/Penal/Estelionato/Estelionato - Absolv - Sem prova fraude.docx
+  - Modelos de Sentença/Penal/LMP/lesão leve e ameaça.docx
+  - Modelos de Sentença/Penal/LMP/lesão leve.docx
+  - Modelos de Sentença/Penal/Drogas/tráfico.docx
+  - Modelos de Sentença/Penal/Peculato/Peculato-furto - Princ Insignif.docx
+  - Modelos de Sentença/Penal/Drogas/tréfico e associação.docx
+  - Modelos de Sentença/Penal/LMP/vias de fato e ameaça - proedente.docx
+  - Modelos de Sentença/Penal/Drogas/tráfico.docx
+  - Modelos de Sentença/Penal/Estelionato/Procedência - desvio bens.docx
+  - Modelos de Sentença/Penal/LMP/processo zicado - invasão e ameaça.docx
+  [SENSIVEL] - Modelos de Sentença/Penal/Contravenções e menor potencial ofensivo/jogos de azar - sem relatório.docx
+  - Modelos de Sentença/Penal/LMP/lesão corporal (antes do p do art ) + ameaça - procedente.docx
+  - Modelos de Sentença/Penal/CTB/embriagues procedente.docx
+  - Modelos de Sentença/Penal/Lesão Corporal/lesão grave.docx
+  - Modelos de Sentença/Penal/LMP/paradigma.docx
+  - Modelos de Sentença/Penal/LMP/Lesão leve e ameaça.docx
+  - Modelos de Sentença/Penal/Furto/furto simples.docx
+  - Modelos de Sentença/Penal/LMP/– lesão, descumprimento de medida e coação.docx
+  - Modelos de Sentença/Penal/Diversos/abandono material.docx
+  - Modelos de Sentença/Penal/LMP/Ameaça.docx
+  - Modelos de Sentença/Penal/LMP/Descumprimento de protetiva + embriaguez + ameaça.docx
+  - Modelos de Sentença/Penal/Drogas/privilegiado.docx
+  - Modelos de Sentença/Penal/Crime contra as relações de consumo/falseamento de qualidade essencial do produto - procedente - consórcio.docx
+  - Modelos de Sentença/Penal/Dano/Dano qualif - Patrimônio público - procedente.docx
+  - Modelos de Sentença/Penal/Furto/durto privilegiado - redução pena.docx
+  - Modelos de Sentença/Penal/CTB/CTB - condenatória - PRD.docx
+  - Modelos de Sentença/Penal/Drogas/Tráfico - maus antecedentes - art - circunstâncias negativas - regime fechado.docx
+  - Modelos de Sentença/Penal/Drogas/proc-caput-palavrapol-autodefilhada.docx
+  - Modelos de Sentença/Penal/Drogas/paradigma.docx
+  - Modelos de Sentença/Penal/LMP/procedência - lesão leve com emendatio.docx
+  - Modelos de Sentença/Penal/LMP/lesão corporal - vitima deficiente - condenação.docx
+  - Modelos de Sentença/Penal/LMP/Lesão corporal/lesão leve - condenação.docx
+  - Modelos de Sentença/Penal/Furto/absolvição - fragilidade provas.docx
+  - Modelos de Sentença/Penal/LMP/Lesão corporal - condenação - pena anterior - menos gravosa.docx
+  - Modelos de Sentença/Penal/CTB/ART CTB.docx
+  - Modelos de Sentença/Penal/Drogas/cond - rein - s stj - palavra policiais.docx
+  - Modelos de Sentença/Penal/CTB/Art CTB - condenatória - PRD.docx
+  - Modelos de Sentença/Penal/Alteração documento/Falsificação documento particular - improc falt provas.docx
+  - Modelos de Sentença/Penal/Sentenças 1ª Vara Crim Marilia/Furto simples.docx
+  - Modelos de Sentença/Penal/Furto/Furto simples - Não insignif - PRD.docx
+  - Modelos de Sentença/Penal/LMP/Lesão corporal/Lesão leve - vitima não compareceu - falta provas.docx
+  - Modelos de Sentença/Penal/Tributário/Modelo suspensão pagamento-parcelamento dívida.docx
+  - Modelos de Sentença/Penal/Drogas/Tráfico - Desclassif art - Advert.docx
+  - Modelos de Sentença/Penal/Custódia/Liberdade/tráfico-porte com medidas diversas.docx
+
+
+============================================================
+EXEMPLOS DE USO:
+============================================================
+
+Caso: Dano moral por negativacao indevida
+  1. Procure em: CIVIL > consumidor
+  2. Localize arquivo sobre dano moral
+  3. Acesse o caminho completo
+
+Caso: Furto qualificado
+  1. Procure em: PENAL > furto
+  2. Localize arquivo sobre qualificacao
+  3. Compare fundamentacao
+
+
+============================================================
+FIM DO INDICE
+============================================================
